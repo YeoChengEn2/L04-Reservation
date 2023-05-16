@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">L04-Reservation</string>
+    <string name="app_title">Make a Reservation</string>
+    <string name="name_edit">Enter your name</string>
+    <string name="mobile_edit">Enter your mobile number</string>
+    <string name="group_edit">Enter the size of your group</string>
+    <string name="date_text">Enter the date of reservation:</string>
+    <string name="time_text">Enter the time of reservation:</string>
+    <string name="radio_smoke">Smoking area</string>
+    <string name="radio_sNOke">Non-smoking area</string>
+    <string name="confirm_button">CONFIRM</string>
+    <string name="reset_button">RESET</string>
 </resources>
